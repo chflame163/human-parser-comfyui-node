@@ -1,5 +1,9 @@
-# Cozy Human Parser
 
+# Cozy Human Parser
+Fork from https://github.com/cozymantis/human-parser-comfyui-node, fix ```schp``` code to support pytorch 2.6.0 
+
+
+# Original Readme
 Fast, VRAM-light ComfyUI nodes to generate masks for specific body parts and clothes or fashion items. Runs on CPU and CUDA.
 Made with 💚 by the [CozyMantis](https://cozymantis.gumroad.com/) squad.
 
